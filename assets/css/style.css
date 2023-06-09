@@ -5,6 +5,11 @@ body {
 :root {
   --mainColor: #149ddd;
   --hoverColor: #37b3ed;
+  --white: #ffffff;
+  --green-chalk: #ddffd5;
+  --primary-bshadow: 0px 15px 35px 0px rgba(0, 0, 0, 0.1);
+  --primary-bshadow: 0px 15px 35px 0px rgba(0, 0, 0, 0.1);
+  --primary: #3d87c4;
 }
 
 a {
