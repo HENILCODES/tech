@@ -12,7 +12,9 @@ body {
   --primary-bshadow: 0px 15px 35px 0px rgba(0, 0, 0, 0.1);
   --primary: #3d87c4;
 }
-
+.w-0{
+  width: 0px !important;
+}
 a {
   color: var(--mainColor);
   text-decoration: none;
