@@ -186,6 +186,14 @@ body {
   line-height: 38px;
   margin-bottom: 30px;
 }
+@media (max-width: 575px) {
+  .testi-quote p {
+  font-size: 19px !important;
+  }
+.testi-quote i {
+  margin-bottom: 1px;
+}
+}
 .testi-quote h4 {
   text-transform: capitalize;
   margin-bottom: 5px;
